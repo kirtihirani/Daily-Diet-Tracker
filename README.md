@@ -1,8 +1,6 @@
-# DAILY NUTRIENTS 🍛 🍎
+# Daily Diet Tracker
 
 ## A Full-stack CRUD react web application helps people to keep track of the food consumed and customise their eating diet.
-
-![](https://github.com/Liam1809/Daily-Nutrients-API/blob/master/assets/animated.gif)
 
 ## Ultilities:
 

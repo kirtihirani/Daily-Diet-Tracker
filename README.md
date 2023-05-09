@@ -53,7 +53,4 @@
 
 #### "npm start" each terminal
 
-## DEPLOYMENT
 
-- netlify & Heroku
-- [Daily Nutrients](https://daily-nutrients.netlify.app)
